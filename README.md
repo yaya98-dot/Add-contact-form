@@ -6,7 +6,7 @@ simple web app to aad and display contact names,built using HTML,CSS and JAVASCR
 -clean user=friendly interface
 -shows entered contacts on the page
 
-## **technologiesn uses**
+## **technologies uses**
 -HTML5
 -CSS
 -JAVASCRIPT
