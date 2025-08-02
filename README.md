@@ -1,2 +1,18 @@
 # Add-contact-form
-simple add contact app built with HTML5,CSS,JAVASCRIPT
+simple web app to aad and display contact names,built using HTML,CSS and JAVASCRIPT
+
+## **features**
+-Add contact names dynamically
+-clean user=friendly interface
+-shows entered contacts on the page
+
+## **technologiesn uses**
+-HTML5
+-CSS
+-JAVASCRIPT
+
+## **live demo**
+[add contact app] (https://yaya98-dot.github.io/add-contact-app/)
+
+##
+created by**Ayanda Ntengo**
