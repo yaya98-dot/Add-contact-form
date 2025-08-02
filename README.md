@@ -3,7 +3,7 @@ simple web app to aad and display contact names,built using HTML,CSS and JAVASCR
 
 ## **features**
 -Add contact names dynamically
--clean user=friendly interface
+-clean user-friendly interface
 -shows entered contacts on the page
 
 ## **technologies uses**
