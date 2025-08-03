@@ -12,7 +12,7 @@ simple web app to aad and display contact names,built using HTML,CSS and JAVASCR
 -JAVASCRIPT
 
 ## **live demo**
-[add contact app] (https://yaya98-dot.github.io/add-contact-app/)
+[add contact form] (https://yaya98-dot.github.io/add-contact-form/)
 
 ##
 created by**Ayanda Ntengo**
